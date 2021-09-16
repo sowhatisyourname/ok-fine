@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("i am �ū۰�\n");
+printf("i am 藍彥堂\n");
 }
